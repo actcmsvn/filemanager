@@ -1,0 +1,13 @@
+{
+    "name": "actcmsvn/filemanager",
+    "description": "FileManager",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ACTCMS",
+            "email": "actcms.work@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
